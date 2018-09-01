@@ -1,0 +1,71 @@
+body {
+	font-family: 'Permanent Marker', cursive;
+	background-color:#009900;	
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+  /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+    .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      min-height: 200px;
+    }
+
+    /* Hide the carousel text when the screen is less than 600 pixels wide */
+    @media (max-width: 600px) {
+      .carousel-caption {
+        display: none; 
+      }
+    }
+	
+	#fbtn{
+				font-family: 'Permanent Marker', cursive;
+				font-size:32px;
+				text-decoration:none;
+	}
+	
+	.navbar-brand
+	{
+		font-family: 'Sancreek', cursive; 
+		font color:"#00CCCC";
+		font-size:24px;
+		
+	}
+	
+	.navbar
+	{
+		background-color:#FFCC33;
+	}
+	
+	.marquee 
+	{
+				font-family: 'Permanent Marker', cursive;
+				font-size:32px;
+	}
+	
+	.well
+	{
+			background-color:#FF6633;
+	}
+	
+	.collapse
+	{
+		font-family: 'Sancreek', cursive; 
+	
+	}
+	
+	#foot
+	{
+			text-align:center;
+			font-family: 'Sancreek', cursive;
+	}
